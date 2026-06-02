@@ -12,16 +12,26 @@
 - Also shows tags from related videos for broader SEO coverage
 - One-click **Copy Tags** button for instant use
 
+![YouTube SEO Tag Generator](Screenshots/YouTube%20SEO%20Tag%20Generator.png)
+
+---
+
 ### 🖼️ Thumbnail Extractor
 - Paste any YouTube video URL or ID
 - Fetches the highest quality thumbnail available
 - Preview the thumbnail directly in the browser
 - **Download** the thumbnail with a single click
 
+![YouTube Thumbnail Generator](Screenshots/YouTube%20Thumbnail%20Generator.png)
+
+---
+
 ### 📋 Video Data Retriever
 - Fetches complete video metadata from the YouTube Data API v3
 - Displays video title, channel name, publish date, full description, and all tags
 - Clean, readable layout with dark mode support
+
+![YouTube Video Data Retriever](Screenshots/YouTube%20Video%20Data%20Retriever.png)
 
 ---
 
@@ -76,6 +86,10 @@ http://localhost:8080
 
 ```
 YoutubeToolsPackage/
+├── Screenshots/
+│   ├── YouTube SEO Tag Generator.png
+│   ├── YouTube Thumbnail Generator.png
+│   └── YouTube Video Data Retriever.png
 ├── src/
 │   ├── main/
 │   │   ├── java/com/example/YoutubeTool/
